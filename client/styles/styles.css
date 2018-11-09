@@ -115,8 +115,8 @@ form input[type=text] {
 }
 
 .friend {
-    color: #fff;
-    background-color: #0090da;
+    color: rgb(43, 43, 43);
+    background-color: #70cfff62;
 }
 
 .mention {
